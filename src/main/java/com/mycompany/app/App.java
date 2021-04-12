@@ -1,7 +1,7 @@
 package com.mycompany.app;
 
 /**
- * Hello world from git!
+ * Hello world from the git!
  */
 public class App
 {
